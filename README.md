@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitroinferno
-- 👀 I’m interested in video games & engineerin
+- 👀 I’m interested in video games & engineering
 - 🌱 I’m currently learning python, linux
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
